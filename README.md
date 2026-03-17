@@ -1,4 +1,5 @@
 📌 Project Overview
+
 This project was developed to address the challenge of managing dispersed information across different areas of a department. The Database Center consolidates data from Mining, Processes, Erosions, Ombudsman, and Reports into a single, organized system.
 
 By providing tools to create, search, update, and manage records, the system improves efficiency and reduces fragmentation of information. It reflects a practical approach to building structured, real-world data solutions.
