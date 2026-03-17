@@ -61,4 +61,5 @@ The system includes a simple password-based access control to ensure that only a
   Learned how to design a system that serves multiple users and departments in a centralized way.
 
 🔒 Source Code
+
 The full implementation is private, but I’m happy to discuss details if needed.
