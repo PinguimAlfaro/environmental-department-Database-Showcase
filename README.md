@@ -85,3 +85,24 @@ Implements credential validation and session control to ensure secure data acces
 - Foundation for user session management
 
 
+<img width="1596" height="758" alt="Captura de tela 2026-03-20 154636" src="https://github.com/user-attachments/assets/68159c55-f7eb-44c2-893e-0e396830779e" />
+
+### Modular Database Selection Interface
+
+Central hub designed to organize and provide access to multiple environmental data modules.  
+Each module represents a specific domain of environmental management.
+
+**Modules Available:**
+- Mining (Minerações)
+- Environmental Processes (Processos)
+- Erosion Monitoring (Erosões)
+- Public Complaints (Denúncias)
+- Ombudsman Reports (Ouvidorias)
+
+**Highlights:**
+- Scalable modular architecture
+- Clear separation of data domains
+- User-friendly navigation system
+
+
+
