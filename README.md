@@ -1,6 +1,6 @@
 📌 Project Overview
 
-This project was developed to address the challenge of managing dispersed information across different areas of a department. The Database Center consolidates data from Mining, Processes, Erosions, Ombudsman, and Reports into a single, organized system.
+This project was developed to address the challenge of managing dispersed information across different areas of a department. The Database Center consolidates data from Mining, Processes, Erosions, Ombudsman Reports, and Public Complaints into a single, organized system.
 
 By providing tools to create, search, update, and manage records, the system improves efficiency and reduces fragmentation of information. It reflects a practical approach to building structured, real-world data solutions.
 
@@ -63,3 +63,30 @@ The system includes a simple password-based access control to ensure that only a
 🔒 Source Code
 
 The full implementation is private, but I’m happy to discuss details if needed.
+
+
+
+
+PROJECT SCREENSHOTS
+
+
+<img width="1596" height="754" alt="Captura de tela 2026-03-20 154617" src="https://github.com/user-attachments/assets/dcde5176-ea60-4205-a45c-dc9d3996eb89" />
+
+### Modular Database Selection Interface
+
+Central hub designed to organize and provide access to multiple environmental data modules.  
+Each module represents a specific domain of environmental management.
+
+**Modules Available:**
+- Mining (Minerações)
+- Environmental Processes (Processos)
+- Erosion Monitoring (Erosões)
+- Public Complaints (Denúncias)
+- Ombudsman Reports (Ouvidorias)
+
+**Highlights:**
+- Scalable modular architecture
+- Clear separation of data domains
+
+
+
