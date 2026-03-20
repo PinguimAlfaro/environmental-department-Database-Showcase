@@ -105,4 +105,21 @@ Each module represents a specific domain of environmental management.
 - User-friendly navigation system
 
 
+<img width="1598" height="758" alt="Captura de tela 2026-03-20 154654" src="https://github.com/user-attachments/assets/47139475-0acb-4c74-b3a4-c0e269fc2e24" />
 
+### Data Entry and Management System
+
+Form interface designed for structured insertion of environmental data related to mining activities.  
+Ensures standardized data collection for further analysis and monitoring.
+
+**Fields Included:**
+- Polygon Identification (ANM)
+- Environmental Aspect
+- Potential Environmental Impact
+- Applicable Legislation
+- Mitigation Measures
+
+**Highlights:**
+- Structured data input
+- Supports regulatory and environmental compliance tracking
+- Designed for scalability and future data expansion
