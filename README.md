@@ -6,6 +6,8 @@ By providing tools to create, search, update, and manage records, the system imp
 
 The system includes a simple password-based access control to ensure that only authorized users can interact with the data.
 
+---
+
 🚀 Features
 - Centralized Database System  
   Unified platform to manage multiple operational areas: Mining, Processes, Erosions, Ombudsman, and Reports.
@@ -29,7 +31,8 @@ The system includes a simple password-based access control to ensure that only a
 
 - Scalable Architecture  
   Designed to support the addition of new modules or data categories in the future.
-
+  
+---
 
 🛠️ Tech Stack
 - HTML 5
@@ -65,7 +68,7 @@ The system includes a simple password-based access control to ensure that only a
 The full implementation is private, but I’m happy to discuss details if needed.
 
 
-
+---
 
 
 PROJECT SCREENSHOTS
